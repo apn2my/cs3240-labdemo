@@ -1,2 +1,2 @@
 # cs3240-labdemo
-This is Lab5. 
+Lab 5 for CS3240
